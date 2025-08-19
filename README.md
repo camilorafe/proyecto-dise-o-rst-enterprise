@@ -1,6 +1,6 @@
-# 📦 Inventario Simple y Accesible
+# 📦 Inventario Simple y Accesible LIRSTA
 
-Aplicación diseñada para llevar un **inventario fácil de usar**, pensada especialmente para personas que no tienen experiencia con bases de datos, Excel o software especializado.  
+Lirsta es una plicación diseñada para llevar un **inventario fácil de usar**, pensada especialmente para personas que no tienen experiencia con bases de datos, Excel o software especializado.  
 El objetivo es ofrecer una herramienta **intuitiva, ligera y accesible** que pueda funcionar desde dispositivos móviles o computadores básicos.
 
 ---
@@ -14,3 +14,4 @@ El objetivo es ofrecer una herramienta **intuitiva, ligera y accesible** que pue
 - Desarrollo siguiendo una **metodología ágil (Scrum)**.
 
 ---
+Revisa nuestra Wiki para la principal informacion!
