@@ -1,0 +1,10 @@
+com\inventariosdiseno\app\Observer.class
+com\inventariosdiseno\app\TemplateFactory.class
+com\inventariosdiseno\app\App.class
+com\inventariosdiseno\app\InventarioFactory.class
+com\inventariosdiseno\app\AlertaSistema.class
+com\inventariosdiseno\app\Producto.class
+com\inventariosdiseno\app\ConcreteProduct.class
+com\inventariosdiseno\app\ReporteAuditoria.class
+com\inventariosdiseno\app\Cliente.class
+com\inventariosdiseno\app\Proveedor.class
