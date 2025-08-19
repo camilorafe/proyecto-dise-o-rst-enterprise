@@ -14,4 +14,4 @@ El objetivo es ofrecer una herramienta **intuitiva, ligera y accesible** que pue
 - Desarrollo siguiendo una **metodología ágil (Scrum)**.
 
 ---
-Revisa nuestra Wiki para la principal informacion!
+Revisa nuestra Wiki para mas informacion!
